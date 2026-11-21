@@ -1,0 +1,10 @@
+
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Unit_Cost
+2001,2026-01-05,Monitor,Electronics,South,10,12000,8000
+2002,2026-01-15,Keyboard,Accessories,North,20,1500,800
+2003,2026-02-03,Monitor,Electronics,West,15,12000,8000
+2004,2026-02-18,Mouse,Accessories,East,30,800,400
+2005,2026-03-10,Keyboard,Accessories,South,25,1500,800
+2006,2026-03-22,Monitor,Electronics,North,8,12000,8000
+
+
