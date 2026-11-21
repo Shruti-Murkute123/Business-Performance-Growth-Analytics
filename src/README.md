@@ -84,7 +84,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open the local URL displayed in your terminal, usually http://localhost:8501.
+APP URL : https://business-performance-growth-analytics.streamlit.app
 
 ## Dataset
 
